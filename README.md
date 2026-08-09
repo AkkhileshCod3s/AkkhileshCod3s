@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/e0/93/3c/e0933cfe30da2c82232d339dc0e64eb6.gif" alt="Banner" width="100%" />
+<img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - CS Student | Python, C, Web Dev (HTML/CSS/JS) & currently learning Java and MySQL.
@@ -16,12 +16,11 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/AkkhileshCod3s">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AkkhileshCod3s&cache_seconds=7200&layout=compact&theme=prussian&border_radius=10" alt="AkkhileshCod3s's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AkkhileshCod3s&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="AkkhileshCod3s's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=AkkhileshCod3s&theme=prussian&hide_border=true&cache_seconds=86400" alt="AkkhileshCod3s's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=AkkhileshCod3s&theme=prussian&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Akhilesh's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=AkkhileshCod3s&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Akhilesh's GitHub Trophies" />
 </p>
 
 
@@ -55,15 +54,6 @@
 
 </p>
 
-<p align="center">
-  <a href="https://github.com/AkkhileshCod3s">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AkkhileshCod3s&langs_count=8&layout=compact&theme=prussian&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
-![Top language](https://stats.pphat.top/languages?username=AkkhileshCod3s)
-<br/>
-
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/akhilesh-73b067368/">
@@ -83,6 +73,6 @@
 <p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
 </div>
 
