@@ -29,6 +29,14 @@ Selected stack and skill badges will be generated from the GitHub profile and RE
     <img src="https://www.gitskins.com/api/section/stack?username=AkkhileshCod3s&theme=github-dark" alt="AkkhileshCod3s stack section" />
   </picture>
 </p>
+## GitHub Stats
+GitSkins stat widgets will use the **GitHub** theme.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=AkkhileshCod3s&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=AkkhileshCod3s&theme=github-dark" alt="AkkhileshCod3s stats section" />
+  </picture>
+</p>
 ## Projects
 Highlights repositories as proof of work.
 <p align="center">
@@ -39,14 +47,6 @@ Highlights repositories as proof of work.
 </p>
 ## Heatmap
 Animated year-long contribution calendar.
-## GitHub Stats
-GitSkins stat widgets will use the **GitHub** theme.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=AkkhileshCod3s&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=AkkhileshCod3s&theme=github-dark" alt="AkkhileshCod3s stats section" />
-  </picture>
-</p>
 ## Connect
 Contact and social links will appear here.
 <p align="center">
@@ -56,4 +56,4 @@ Contact and social links will appear here.
   </picture>
 </p>
 
-<!-- Sections: Header, About Me, Skills, Projects, Heatmap, GitHub Stats, Connect -->
+<!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Heatmap, Connect -->
