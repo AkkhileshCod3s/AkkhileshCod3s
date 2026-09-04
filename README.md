@@ -1,151 +1,24 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Akhilesh&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Student&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+# 💫 About Me:
+🏫CS STUDENT
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akhileshhhh_27) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akhilesh-73b067368) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Resident_Credit5952) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akhileshcodes.tech@gmail.com) 
 
-<p align="center">
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=AkkhileshCod3s&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=AkkhileshCod3s&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AkkhileshCod3s&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<a href="https://komarev.com/ghpvc/?username=AkkhileshCod3s">
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AkkhileshCod3s&theme=shadow_red&no-frame=true&no-bg=true&margin-w=4)
 
-<img src="https://komarev.com/ghpvc/?username=AkkhileshCod3s&label=Profile%20views&color=00FFFF&style=flat-square" alt="AkkhileshCod3s's profile views" />
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AkkhileshCod3s&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-</a>
+---
+[![](https://komarev.com/ghpvc/?username=AkkhileshCod3s&icon=0&color=1)](https://visitcount.itsvg.in)
 
-</p>
-
-
-
-<img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="Banner" width="100%" />
-
-
-
-## 📌 About Me
-
-- CS Student | Python, C, Web Dev (HTML/CSS/JS) & currently learning Java and MySQL.
-
-- Passionate about software fundamentals, OOP, and building real-world projects.
-
-
-
-
-
-## 📊 GitHub Stats & Trophies
-
-<p align="center">
-
-<a href="https://github.com/AkkhileshCod3s">
-
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AkkhileshCod3s&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="AkkhileshCod3s's GitHub Stats" />
-
-</a>
-
-</p>
-
-<p align="center">
-
-<img src="https://trophy.ryglcloud.net/?username=AkkhileshCod3s&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Akhilesh's GitHub Trophies" />
-
-</p>
-
-
-
-
-
-## 🛠️ Languages & Tools
-
-
-
-<h3 align="center">Programming Languages</h3>
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
-
-
-
-</p>
-
-
-
-<h3 align="center">Frontend</h3>
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
-
-
-
-</p>
-
-
-
-<h3 align="center">Database</h3>
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
-
-
-
-</p>
-
-
-
-<h3 align="center">Tools</h3>
-
-<p align="center">
-
-<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
-
-
-
-</p>
-
-
-
-## 🔗 Connect with Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/akhilesh-73b067368/">
-
-<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-
-</a>&nbsp;
-
-<a href="mailto:akhileshcodes.tech@gmail.com">
-
-<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-
-</a>
-
-</p>
-
-
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-
-</picture>
-
-
-
-
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
-
-</div> 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
