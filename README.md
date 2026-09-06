@@ -10,10 +10,10 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-<a href="https://instagram.com/akhileshhhh_27" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="36" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/akhilesh-73b067368" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0077B5" height="36" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://reddit.com/user/Resident_Credit5952" target="_blank"><img src="https://cdn.simpleicons.org/reddit/FF4500" height="36" /></a>&nbsp;&nbsp;&nbsp;
-<a href="mailto:akhileshcode.tech@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/D14836" height="36" /></a>
+<a href="https://instagram.com/akhileshhhh_27" target="_blank"><img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://linkedin.com/in/akhilesh-73b067368" target="_blank"><img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://reddit.com/user/Resident_Credit5952" target="_blank"><img src="https://img.shields.io/badge/-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
+<a href="mailto:akhileshcode.tech@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 </div>
