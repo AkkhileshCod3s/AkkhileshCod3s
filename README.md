@@ -96,6 +96,9 @@
 
 <div align="center">
 
-<img src="footer.svg" width="100%"/>
+<p align="center">
+  <img src="footer.svg" width="100%"/>
+</p>
+<p align="center">Thanks for stopping by!</p>
 
 </div>
