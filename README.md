@@ -10,10 +10,12 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-<a href="https://instagram.com/akhileshhhh_27" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0b0a1f" /></a>
-<a href="https://linkedin.com/in/akhilesh-73b067368" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0a1f" /></a>
-<a href="https://reddit.com/user/Resident_Credit5952" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=0b0a1f" /></a>
-<a href="mailto:akhileshcode.tech@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0a1f" /></a>
+<a href="https://linkedin.com/in/akhilesh-73b067368" target="_blank"><img src="badges/linkedin.svg" /></a>
+<a href="https://github.com/AkkhileshCod3s" target="_blank"><img src="badges/github.svg" /></a>
+<a href="https://dev-akhilesh-portfolio.vercel.app/" target="_blank"><img src="badges/portfolio.svg" /></a>
+<a href="https://instagram.com/akhileshhhh_27" target="_blank"><img src="badges/instagram.svg" /></a>
+<a href="https://reddit.com/user/Resident_Credit5952" target="_blank"><img src="badges/reddit.svg" /></a>
+<a href="mailto:akhileshcode.tech@gmail.com" target="_blank"><img src="badges/email.svg" /></a>
 </p>
 
 </div>
@@ -36,7 +38,7 @@ Hello! I'm Akhilesh, a Computer Science & Engineering Student based in Punjab, I
 
 ## 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,c,py,java,mysql,git,github,vercel,vite,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,c,py,java,mysql,git,github,vercel,render,vite,vscode&theme=dark" />
 
 
 </div>
