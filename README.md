@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫CS STUDENT AT CHITKARA UNIVERSITY
+🏫CS Student At Chitkara University
 
 
 ## 🌐 Socials:
