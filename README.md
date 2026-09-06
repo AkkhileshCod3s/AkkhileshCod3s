@@ -53,7 +53,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=AkkhileshCod3s&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22D3EE&icon_color=22D3EE&text_color=c9d1d9&include_all_commits=false&count_private=true&cache_seconds=1800" height="165"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=AkkhileshCod3s&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22D3EE&icon_color=22D3EE&text_color=c9d1d9&include_all_commits=false&count_private=true&cache_seconds=1800" height="165"/> -->
 
 <br/>
 
@@ -61,7 +61,7 @@
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkkhileshCod3s&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22D3EE&line=22D3EE&point=c9d1d9" width="95%"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkkhileshCod3s&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22D3EE&line=22D3EE&point=c9d1d9" width="95%"/> -->
 
 </div>
 
