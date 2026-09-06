@@ -11,7 +11,7 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/akhilesh-73b067368" target="_blank"><img src="badges/linkedin.svg" /></a>
-<a href="https://github.com/AkkhileshCod3s" target="_blank"><img src="badges/github.svg" /></a>
+<!-- <a href="https://github.com/AkkhileshCod3s" target="_blank"><img src="badges/github.svg" /></a> -->
 <a href="https://dev-akhilesh-portfolio.vercel.app/" target="_blank"><img src="badges/portfolio.svg" /></a>
 <a href="https://instagram.com/akhileshhhh_27" target="_blank"><img src="badges/instagram.svg" /></a>
 <a href="https://reddit.com/user/Resident_Credit5952" target="_blank"><img src="badges/reddit.svg" /></a>
