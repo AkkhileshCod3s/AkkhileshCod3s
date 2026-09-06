@@ -96,9 +96,8 @@
 
 <div align="center">
 
-<p align="center">
-  <img src="footer.svg" width="100%"/>
-</p>
-<p align="center">Thanks for stopping by!</p>
+<img src="footer.svg" width="100%"/>
+<br/>
+<img src="https://demolab.com" style="margin-top: -55px; position: relative; z-index: 10;" />
 
 </div>
