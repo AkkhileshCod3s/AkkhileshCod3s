@@ -36,7 +36,7 @@ Hello! I'm Akhilesh, a Computer Science & Engineering Student based in Punjab, I
 
 ## 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,c,py,java,mysql,git,github,vercel,render,vite,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,c,py,java,mysql,git,github,vercel,vite,vscode&theme=dark" />
 
 
 </div>
