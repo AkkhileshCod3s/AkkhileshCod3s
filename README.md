@@ -44,19 +44,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AkkhileshCod3s&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Akhilesh's GitHub Stats" height="175"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkkhileshCod3s&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" height="175"/>
+<img src="https://github-readme-stats.shion.dev/api?username=AkkhileshCod3s&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="Akhilesh's GitHub Stats" height="175"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AkkhileshCod3s&theme=react&hide_border=true&layout=compact" alt="Top Languages" height="175"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkkhileshCod3s&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=AkkhileshCod3s&style=flat-square&color=blue)
+<img src="https://streak-stats.demolab.com/?user=AkkhileshCod3s&theme=react&hide_border=true" alt="GitHub Streak" />
 
 </div>
