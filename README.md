@@ -1,54 +1,95 @@
 <div align="center">
 
-# 👨‍💻 Akhilesh
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:6B8DD6&height=220&section=header&text=Hi%20There,%20I'm%20Akhilesh%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CS%20Student%20@%20Chitkara%20University&descAlignY=55&descSize=18" width="100%"/>
 
-**CS Undergraduate at Chitkara University**
+<br/>
 
----
-
-### 🌐 Connect With Me
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/akhileshhhh_27)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akhilesh-73b067368)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/Resident_Credit5952)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhileshcode.tech@gmail.com)
-
----
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+things+with+code+%F0%9F%92%BB;CS+Student+%40+Chitkara+University+%F0%9F%8F%AB;Always+learning,+always+shipping+%F0%9F%9A%80&font=Fira%20Code&center=true&width=550&height=45&color=8A63D2&vCenter=true&size=22&pause=1200" />
 
 </div>
 
-## 💫 About Me
+<br/>
 
-* 🏫 Pursuing a degree in **Computer Science** at **Chitkara University**
-* 💡 Passionate about software development, problem-solving, and web technologies
-* 📧 Reach me at: **akhileshcode.tech@gmail.com**
+<table align="center" style="border:none;">
+<tr>
+<td valign="top" width="50%">
 
----
+### 🌐 Connect With Me
 
-## 💻 Tech Stack
+<p align="left">
+<a href="https://instagram.com/akhileshhhh_27" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a2e" />
+</a>
+<a href="https://linkedin.com/in/akhilesh-73b067368" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" />
+</a>
+<a href="https://reddit.com/user/Resident_Credit5952" target="_blank">
+<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=1a1a2e" />
+</a>
+<a href="mailto:akhileshcode.tech@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" />
+</a>
+</p>
 
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+</td>
+<td valign="top" width="50%">
 
-### Web & Database
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### ⚡ Quick Facts
 
----
+- 🏫 CS Student at **Chitkara University**
+- 🌱 Constantly leveling up my dev skills
+- 💬 Ask me about web dev & core programming
+- 📫 Reach me at **akhileshcode.tech@gmail.com**
 
-## 📊 GitHub Analytics
+</td>
+</tr>
+</table>
+
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=AkkhileshCod3s&theme=react&hide_border=true&include_all_commits=true" alt="Akhilesh's GitHub Stats" height="175"/>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AkkhileshCod3s&theme=react&hide_border=true&layout=compact" alt="Top Languages" height="175"/>
+## 💻 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js,c,py,java,mysql&theme=dark" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=AkkhileshCod3s&theme=react&hide_border=true" alt="GitHub Streak" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=AkkhileshCod3s&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A63D2&icon_color=8A63D2&text_color=c9d1d9&include_all_commits=false&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkkhileshCod3s&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A63D2&text_color=c9d1d9&layout=compact&langs_count=8" height="165"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=AkkhileshCod3s&theme=tokyonight&hide_border=true&background=0D1117&stroke=8A63D2&ring=8A63D2&fire=8A63D2&currStreakLabel=c9d1d9" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkkhileshCod3s&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8A63D2&line=8A63D2&point=c9d1d9" width="95%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B8DD6,50:764ba2,100:667eea&height=120&section=footer"/>
+
+<sub>✨ Thanks for stopping by! ✨</sub>
 
 </div>
