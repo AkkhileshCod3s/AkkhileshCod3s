@@ -45,16 +45,6 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,c,py,java,mysql&theme=dark" />
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-
 </div>
 
 <br/>
@@ -63,16 +53,12 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=AkkhileshCod3s&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22D3EE&icon_color=22D3EE&text_color=c9d1d9&include_all_commits=false&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkkhileshCod3s&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22D3EE&text_color=c9d1d9&layout=compact&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AkkhileshCod3s&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22D3EE&icon_color=22D3EE&text_color=c9d1d9&include_all_commits=false&count_private=true&cache_seconds=1800" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkkhileshCod3s&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22D3EE&text_color=c9d1d9&layout=compact&langs_count=8&cache_seconds=1800" height="165"/>
 
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=AkkhileshCod3s&theme=tokyonight&hide_border=true&background=0D1117&stroke=22D3EE&ring=22D3EE&fire=22D3EE&currStreakLabel=c9d1d9" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AkkhileshCod3s&theme=nord&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
 
 <br/>
 
