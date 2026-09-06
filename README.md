@@ -44,7 +44,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=AkkhileshCod3s&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="Akhilesh's GitHub Stats" height="175"/>
+<img src="https://github-readme-stats.shion.dev/api?username=AkkhileshCod3s&theme=react&hide_border=true&include_all_commits=true" alt="Akhilesh's GitHub Stats" height="175"/>
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AkkhileshCod3s&theme=react&hide_border=true&layout=compact" alt="Top Languages" height="175"/>
 
 <br/><br/>
