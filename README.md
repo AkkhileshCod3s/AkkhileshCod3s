@@ -26,8 +26,8 @@
 
 Hello! I'm Akhilesh, a Computer Science & Engineering Student based in Punjab, India. I specialize in front-end web engineering, core Object-Oriented Programming (OOP) in Java, and foundational data structures. My GitHub profile serves as a central hub for my academic coursework, exam preparation materials, and modern web application projects.
 
-* 🎓 Education: B.Tech in Computer Science & Engineering
-* 📍 Location: Rajpura, Punjab, India
+* 🎓 Education: B.Tech in Computer Science & Engineering.
+* 📍 Location: Rajpura, Punjab, India.
 * 🌐 Primary Tech Stack: React.js, JavaScript (ES6+), Java, HTML5, CSS3, Vite, C.
 * 🛠️ Developer Tooling: Git, GitHub, VS Code, Vercel, Render
 * 🎯 Goals: Master modern full-stack architecture and advance core algorithm design.
