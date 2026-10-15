@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="sections/connect.svg" width="100%" alt="ls ./connect"/>
+<img src="sections/cat-connect.svg" width="100%" alt="let's connect"/>
 
 <p align="center">
 <a href="https://linkedin.com/in/akhilesh-73b067368" target="_blank"><img src="badges/linkedin.svg" /></a>
@@ -22,9 +22,13 @@
 
 <br/>
 
-<img src="sections/about.svg" width="100%" alt="cat about.md"/>
+## 🌱 About Me
 
-Hello! I'm Akhilesh, a Computer Science & Engineering Student based in Punjab, India. I specialize in front-end web engineering, core Object-Oriented Programming (OOP) in Java, and foundational data structures. My GitHub profile serves as a central hub for my academic coursework, exam preparation materials, and modern web application projects.
+Hey there, I'm **Akhilesh** 👋, a Computer Science & Engineering student at **Chitkara University**, based in Punjab, India.
+
+I enjoy turning ideas into clean, fast and thoughtful web experiences. My strength is **front-end web engineering**, backed by solid fundamentals in **Object-Oriented Programming with Java** and **data structures**. I'm always learning and always shipping.
+
+This profile is my little corner of the internet: a home for my academic coursework, exam preparation notes and the modern web apps I build along the way. If something catches your eye, say hi! 🚀
 
 <img src="sections/about-card.svg" width="100%" alt="profile.conf"/>
 
@@ -32,7 +36,7 @@ Hello! I'm Akhilesh, a Computer Science & Engineering Student based in Punjab, I
 
 <div align="center">
 
-<img src="sections/stack.svg" width="100%" alt="cat stack.json"/>
+<img src="sections/cat-stack.svg" width="100%" alt="i use this tech stack"/>
 
 <br/><br/>
 
@@ -44,25 +48,11 @@ Hello! I'm Akhilesh, a Computer Science & Engineering Student based in Punjab, I
 
 <div align="center">
 
-<img src="sections/stats.svg" width="100%" alt="git log --stat"/>
+<img src="sections/cat-contrib.svg" width="100%" alt="my contributions"/>
 
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=AkkhileshCod3s&theme=tokyonight&hide_border=true&background=0D1117&stroke=22D3EE&ring=22D3EE&fire=22D3EE&currStreakLabel=c9d1d9" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="sections/snake.svg" width="100%" alt="./snake --contributions"/>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/AkkhileshCod3s/AkkhileshCod3s/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-
-<sub>Auto-generated daily via GitHub Actions</sub>
 
 </div>
 
