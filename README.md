@@ -22,7 +22,7 @@
 
 <br/>
 
-## 🌱 About Me
+##  About Me
 
 <img src="sections/cat-walk.svg" width="100%" alt="A tiny cat with headphones walking by and saying: hey, stop scrolling, read about me"/>
 
