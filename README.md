@@ -22,13 +22,15 @@
 
 <br/>
 
-## About Me
+## 🌱 About Me
 
-Hey there, I'm **Akhilesh**, a Computer Science & Engineering student at **Chitkara University**, based in Punjab, India.
+<img src="sections/cat-walk.svg" width="100%" alt="A tiny cat with headphones walking by and saying: hey, stop scrolling, read about me"/>
+
+Hey there, I'm **Akhilesh** 👋, a Computer Science & Engineering student at **Chitkara University**, based in Punjab, India.
 
 I enjoy turning ideas into clean, fast and thoughtful web experiences. My strength is **front-end web engineering**, backed by solid fundamentals in **Object-Oriented Programming with Java** and **data structures**. I'm always learning and always shipping.
 
-This profile is my little corner of the internet: a home for my academic coursework, exam preparation notes and the modern web apps I build along the way. If something catches your eye, say hi!
+This profile is my little corner of the internet: a home for my academic coursework, exam preparation notes and the modern web apps I build along the way. If something catches your eye, say hi! 🚀
 
 <img src="sections/about-card.svg" width="100%" alt="profile.conf"/>
 
